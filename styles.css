@@ -137,6 +137,7 @@ img {
 .box2:hover {
   background-image: url("https://media.giphy.com/media/3oz8xRuifCFspSCepG/giphy.gif");
   background-size: cover;
+  background-position: center center;
 }
 
 .box3 {
@@ -162,6 +163,7 @@ img {
 .box4:hover {
   background-image: url("https://media.giphy.com/media/x8YM656ISCVig/giphy.gif");
   background-size: cover;
+  background-position: center center;
 }
 
 .box5 {
@@ -175,6 +177,7 @@ img {
 .box5:hover {
   background-image: url("https://media.giphy.com/media/l4pSW3vcmlKXNZ9kY/giphy.gif");
   background-size: cover;
+  background-position: center center;
 }
 
 .box6 {
@@ -188,6 +191,7 @@ img {
 .box6:hover {
   background-image: url("https://media.giphy.com/media/zWPmtTtaV28bS/giphy.gif");
   background-size: cover;
+  background-position: center center;
 }
 
 .box7 {
@@ -201,6 +205,7 @@ img {
 .box7:hover {
   background-image: url("https://media.giphy.com/media/xT1XH0lFTLtJeQCgvK/giphy.gif");
   background-size: cover;
+  background-position: center center;
 }
 
 .box8 {
@@ -214,6 +219,7 @@ img {
 .box8:hover {
   background-image: url("https://media.giphy.com/media/3oz8xxrE0ih4oBFULS/giphy.gif");
   background-size: cover;
+  background-position: center center;
 }
 
 .box9 {
@@ -280,13 +286,13 @@ img {
     font-size: .9rem;
   }
   .paragraph-2 {
-    padding: 0 0 1rem 1rem ;
+    padding: 0 0 .7rem 1rem ;
   }
   #resume {
-     padding: .5rem;
+     padding: .25rem;
   }
   #contact {
-    padding: .5rem;
+    padding: .25rem;
   }
   .resume-text {
     font-size: .7rem;
@@ -298,6 +304,7 @@ img {
     height: 2.5rem;
     width: 2.5rem;
   }
+  .box
   aside button {
     height: .6rem;
     width: .6rem;
