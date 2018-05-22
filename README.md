@@ -26,6 +26,11 @@ Base Requirements:
 
 Submission Details:
 -Place submissions in appropriate tab of the Submission Sheet
+------------------------------------------------------------
+My Project:
+
+The theme of this project is Von Miller. I used grid for the "big picture" structure and then flexbox to structure elements/content within each individual box, or section. I chose a color palette from material palette. The icons were found on Flat Icon's website and each smaller box has a .GIF that makes the webpage more exciting and somewhat interactive. Overall, it was fun and although I can always improve (i.e. making the site responsive at even more screen-sizes), I this it turned out well for the first Static Comp Project. 
+
 
 Icon Credits:
 
