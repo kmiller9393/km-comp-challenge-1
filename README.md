@@ -24,7 +24,8 @@ Base Requirements:
 -Include a README with the repo that provides a brief overview of the project, and images of both the original comp and your version.
 -Push your final work to github pages
 
-
+Submission Details:
+-Place submissions in appropriate tab of the Submission Sheet
 
 Icon Credits:
 
