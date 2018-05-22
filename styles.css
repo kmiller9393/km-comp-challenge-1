@@ -140,7 +140,7 @@ img {
 }
 
 .box3 {
-  background-image: url("/Users/kumi5605/Desktop/Turing-Docs/km-comp-challenge-1/images/Von-Miller.jpg");
+  background-image: url("images/Von-Miller.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-size: cover;
@@ -235,7 +235,7 @@ img {
     margin: 29vh 1rem 0 1rem;
   }
   .box3 {
-    background-image: url("/Users/kumi5605/Desktop/Turing-Docs/km-comp-challenge-1/images/Von-Miller-2.jpg");
+    background-image: url("images/Von-Miller-2.jpg");
     background-position: center center;
     grid-area: 1 / 1 / 3 / 4;
   }
@@ -262,7 +262,7 @@ img {
     grid-template-rows: repeat(7, 33.33%);
   }
   .box3 {
-    background-image: url("/Users/kumi5605/Desktop/Turing-Docs/km-comp-challenge-1/images/Von-Miller-2.jpg");
+    background-image: url("images/Von-Miller-2.jpg");
     background-position: center center;
     grid-area: 1 / 1 / 3 / 3;
   }
